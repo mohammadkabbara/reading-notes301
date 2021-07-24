@@ -1,4 +1,7 @@
 # reading-notes301:  Intermediate Software Development
+|  ass name |  link |  
+----------  | ------|       
+|  Read: Class 01    |[link](read01)       |
 # reading-notes201 :Foundations of Software Development
 |  ass name |  link |  
 ----------  | ------|       
