@@ -2,6 +2,7 @@
 |  ass name |  link |  
 ----------  | ------|       
 |  class01     |[link](class01)       |
+|  class02     |   [link](class02)    |
 # reading-notes201 :Foundations of Software Development
 |  ass name |  link |  
 ----------  | ------|       
