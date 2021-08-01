@@ -7,6 +7,7 @@
 |  class04     | [link](class04)      |
 |  class05     | [link](class05)      |
 |  class06     | [link](class06)      |
+|  class07     | [link](class07)      |
 # reading-notes201 :Foundations of Software Development
 |  ass name |  link |  
 ----------  | ------|       
