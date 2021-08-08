@@ -12,6 +12,7 @@
 |  class09     | [link](class09)      |
 |  class10     | [link](class10)      |
 |  class11     | [link](class11)      |
+|  class12     | [link](class12)      |
 # reading-notes201 :Foundations of Software Development
 |  ass name |  link |  
 ----------  | ------|       
