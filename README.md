@@ -1,6 +1,13 @@
-# reading-notes301:  Intermediate Software Development
+# reading-notes401 java
+
 |  ass name |  link |  
-----------  | ------|       
+----------  | ------|
+|  class01     |[link](class01)       |
+
+## reading-notes301:  Intermediate Software Development
+
+|  ass name |  link |  
+----------  | ------|
 |  class01     |[link](class01)       |
 |  class02     |   [link](class02)    |
 |  class03    |   [link](class03 )    |
@@ -15,9 +22,11 @@
 |  class12     | [link](class12)      |
 |  class13     | [link](class13)      |
 |  class14     | [link](class14)      |
-# reading-notes201 :Foundations of Software Development
+
+## reading-notes201 :Foundations of Software Development
+
 |  ass name |  link |  
-----------  | ------|       
+----------  | ------|
 |  read01     |[link](read01)       |
 |  read02     |   [link](read02)    |
 |  read03   |   [link](read03)    |
@@ -33,17 +42,16 @@
 |  read13     | [link](read13)      |
 |  read14a     |  [link](read14a)     |
 |  read14b     | [link](read14b)        |
-# reading-notes102 :Intro to Software Development
+
+## reading-notes102 :Intro to Software Development
 
 | file    | link|
 | ----------- | ----------- |
 |read02    |[link](read02.md)      |
 | read01   | [link](read01.md)      |
-| lab01   | [link](lab01.md)   
+| lab01   | [link](lab01.md)
 | read03   | [link](read03.md)     |
 | read03b  | [link](read03b.md)   |  
 | read04   | [link](read04.md)     |
 | read05   | [link](read05.md)     |
 | read06   | [link](read06.md)     |
-
-
