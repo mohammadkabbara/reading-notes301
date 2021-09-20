@@ -8,7 +8,7 @@
 
 |  ass name |  link |  
 ----------  | ------|
-|  class01     |[link](class01)       |
+|  class01     |[link](class01)      |
 |  class02     |   [link](class02)    |
 |  class03    |   [link](class03 )    |
 |  class04     | [link](class04)      |
