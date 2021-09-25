@@ -1,4 +1,8 @@
-# reading-notes401 java
+# Reading Notes
+
+This website for my personal notes about the study materials
+
+## reading-notes401 java
 
 |  ass name |  link |  
 ----------  | ------|
