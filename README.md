@@ -7,6 +7,7 @@ This website for my personal notes about the study materials
 |  ass name |  link |  
 ----------  | ------|
 |  class01     |[link](class01)       |
+|  class02     |[link](class02)       |
 
 ## reading-notes301:  Intermediate Software Development
 
