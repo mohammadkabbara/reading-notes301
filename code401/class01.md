@@ -29,7 +29,7 @@ Every programming language has its own set of rules and conventions for the kind
 
  | Operators |  Precedence |  
 ----------  | ------|
-| postfix    |postfix|
+| postfix    |	expr++ expr--|
 | unary    | ++expr --expr +expr -expr ~ !    |
 | multiplicative  |* / %   |
 | additive   |+ -|
