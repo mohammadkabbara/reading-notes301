@@ -11,9 +11,10 @@ This website for my personal notes about the study materials
 |  class03     |[link](class03)       |
 |  class04     |[link](class04)       |
 |  class05     |[link](class05)       |
-|  class06     |[link](class06)       |\
+|  class06     |[link](class06)       |
 |  class08     |[link](class08)       |
 |  class09     |[link](class09)       |
+|  class10     |[link](class10)       |
 
 ## reading-notes301:  Intermediate Software Development
 
