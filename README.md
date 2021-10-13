@@ -18,6 +18,7 @@ This website for my personal notes about the study materials
 |  class11     |[link](class11)       |
 |  class12     |[link](class12)       |
 |  class13     |[link](class13)       |
+|  class14     |[link](class14)       |
 
 ## reading-notes301:  Intermediate Software Development
 
