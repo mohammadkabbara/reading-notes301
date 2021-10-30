@@ -22,6 +22,7 @@ This website for my personal notes about the study materials
 |  class16     |[link](class16)       |
 |  class18     |[link](class18)       |
 |  class19     |[link](class19)       |
+|  class26     |[link](class26)       |
 
 ## reading-notes301:  Intermediate Software Development
 
