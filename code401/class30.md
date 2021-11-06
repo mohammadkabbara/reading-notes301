@@ -62,3 +62,22 @@ A basic requirement is that the function should provide a uniform distribution o
  A non-uniform distribution increases the number of collisions and the cost of resolving them. 
  
  Uniformity is sometimes difficult to ensure by design, but may be evaluated empirically using statistical tests, e.g., a Pearson's chi-squared test for discrete uniform distributions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
