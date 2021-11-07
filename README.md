@@ -28,6 +28,7 @@ This website for my personal notes about the study materials
 |  class29     |[link](class29)       |
 |  class30     |[link](class30)       |
 |  class31     |[link](class31)       |
+|  class32     |[link](class32)       |
 
 ## reading-notes301:  Intermediate Software Development
 
